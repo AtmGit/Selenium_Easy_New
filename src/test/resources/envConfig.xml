@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document>
+	<config type="env" name="QA">
+		<Environment>
+			QA
+		</Environment>		
+
+			<envURL>https://www.seleniumeasy.com/test/</envURL>
+					
+	</config>
+</document>
